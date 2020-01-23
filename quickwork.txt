@@ -1,3 +1,8 @@
+git cf --global alias.xx xxxx(+'')
+rename = '--global alias'
+ver = '--hard HEAD'
+(control the version)
+config = cf
 status = st
 commit = ci
 checkout = co
