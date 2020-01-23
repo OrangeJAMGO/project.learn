@@ -1,0 +1,12 @@
+status = st
+commit = ci
+checkout = co
+branch = br
+last = log-1(show the last commit)
+lg = log --color --graph --pretty=f
+ormat:'%Cred%h%Creset -%C(yellow)%d
+%Creset %s %Cgreen(%cr) %C(bold blu
+e)<%an>%Creset' --abbrev-commit
+(no "enter" in it)
+(just a crazy way to show the log)
+
